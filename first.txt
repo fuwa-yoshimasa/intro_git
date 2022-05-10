@@ -3,3 +3,4 @@ mod mod mod
 git add
 git commit
 git rm
+git status
